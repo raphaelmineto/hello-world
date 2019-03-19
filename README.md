@@ -1,5 +1,3 @@
 # hello-world
 Just another repository
-hdjshadjhsajkhdjskdhjksdhskjdhsjhsajkhsagnklagnrgnlagdgdg]k
-fknldasnfldfdnfkdlfd
-fmdkamfldfs
+Hi, Humans!
